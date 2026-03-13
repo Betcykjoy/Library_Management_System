@@ -97,6 +97,7 @@ CREATE TABLE return_status
 );
 
 ```
+The data is uploaded to the columns. 
 
 ### 2. CRUD Operations
 
