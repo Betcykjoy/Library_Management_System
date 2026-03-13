@@ -1,7 +1,7 @@
 
-##Library Management System – SQL Project
+## Library Management System – SQL Project
 
-##Project Overview
+## Project Overview
 
 This project demonstrates the use of SQL for managing and analyzing a Library Management System database. It includes operations for managing books, members, employees, book issuance, and returns. The project also performs data analysis, reporting, and automation using stored procedures.
 
