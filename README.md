@@ -13,7 +13,7 @@ The main objective of this project is to apply SQL concepts such as CRUD operati
 ### 1. Database Setup
 
 - **Database Creation**: Created a database named `library_management_system_db`.
-- https://github.com/Betcykjoy/Library_Management_System/blob/main/ERD-Library_Management_System.png
+- ![ERD](https://github.com/Betcykjoy/Library_Management_System/blob/main/ERD-Library_Management_System.png)
 - **Table Creation**: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
 
 ```sql
